@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/demoReact1/static/css/main.81cc9e00.css",
+    "main.js": "/demoReact1/static/js/main.debd9ad5.js",
+    "static/media/walll.jpg": "/demoReact1/static/media/walll.9d0550d39da492da2a02.jpg",
+    "static/media/gs.jpg": "/demoReact1/static/media/gs.9c565116a31275e56ec3.jpg",
+    "static/media/google.jpeg": "/demoReact1/static/media/google.9a628cbe853dc555d98a.jpeg",
+    "static/media/bar.jpg": "/demoReact1/static/media/bar.44dc41be4bbf30ca725d.jpg",
+    "static/media/micro.jpg": "/demoReact1/static/media/micro.3087f43051028594cc80.jpg",
+    "static/media/under.jpg": "/demoReact1/static/media/under.4531b7bf68a900ac23a5.jpg",
+    "static/media/acc.jpg": "/demoReact1/static/media/acc.aeb61c1d221add1f458b.jpg",
+    "static/media/facebook.jpg": "/demoReact1/static/media/facebook.1473353c341f7e49464e.jpg",
+    "static/media/ibm.jpg": "/demoReact1/static/media/ibm.890a7329e51a6b1eb47f.jpg",
+    "static/media/se.jpg": "/demoReact1/static/media/se.b504de41ac8e03cd8647.jpg",
+    "static/media/pm.jpg": "/demoReact1/static/media/pm.af3057c5f74efcdc22a6.jpg",
+    "static/media/ds.jpg": "/demoReact1/static/media/ds.9211eb3a8c12695d3940.jpg",
+    "static/media/fed.jpg": "/demoReact1/static/media/fed.b6d6af029e42a578a835.jpg",
+    "static/media/home-Pic.jpg": "/demoReact1/static/media/home-Pic.436189dd056550350010.jpg",
+    "static/media/amazon.jpg": "/demoReact1/static/media/amazon.2a62f1d0e8b3dba8407b.jpg",
+    "index.html": "/demoReact1/index.html",
+    "main.81cc9e00.css.map": "/demoReact1/static/css/main.81cc9e00.css.map",
+    "main.debd9ad5.js.map": "/demoReact1/static/js/main.debd9ad5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81cc9e00.css",
+    "static/js/main.debd9ad5.js"
+  ]
+}
